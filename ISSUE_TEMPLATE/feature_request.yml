@@ -21,3 +21,15 @@ body:
     attributes:
       label: Additional Information
       description: Give us some additional information on the feature request like proposed solutions, links, screenshots, etc.
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives
+      description: Describe any alternative solutions or features you've considered.
+  
+  - type: textarea
+    id: issue-related
+    attributes:
+      label: Is your proposal related to an existing issue?
+      description: Provide a link to the issue if applicable, or describe the issue here. 
